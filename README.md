@@ -1,4 +1,4 @@
-# SpringMVC-RedirectView-Search-
+# Project:SpringMVC-RedirectView-Search-
 This project is a web application developed using the Spring MVC framework, incorporating JSP (JavaServer Pages) for the frontend and showcasing the usage of the RedirectView concept. The RedirectView is a class provided by Spring MVC that simplifies the redirection process in web applications.
 
 # Key Features:
